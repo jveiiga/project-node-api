@@ -8,7 +8,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 ## Funcionalidades
-  - Aplicações construida de forma “desacoplada” com concepção da aplicação.
+  - Aplicação construida de forma “desacoplada” com concepção da aplicação.
   - A partir dessa estrutura podemos utilizar em qualquer framework de banco de dados.
   - Entidades da aplicação rodando testes internos sem conexão com banco de dados.
 
